@@ -17,6 +17,7 @@ body > div {
 #navbar {
   padding: 2em;
   justify-content: space-evenly;
+  background-color: cadetblue;
 }
 #main-section {
   flex-grow: 1;
@@ -34,4 +35,14 @@ body > div {
 .blue {
   background-color: #275db3;
   color: white;
+}
+.home {
+  background-color: orange;
+  color:white;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color:white;
 }
